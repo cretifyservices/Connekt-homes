@@ -1,0 +1,6 @@
+{
+  "name": "Connekt Homes",
+  "description": "Premium serviced apartments for short-term stays in Mumbai. Boutique hotel care meets lived-in warmth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
